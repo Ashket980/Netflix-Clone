@@ -205,7 +205,7 @@ Application will be serving on http://localhost:3000
 
 ## Author
 
-- Yu Chiu
+- Ashish Kumar
 
 ---
 
